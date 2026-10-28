@@ -1,0 +1,37 @@
+{
+  "name": "pacmind-minimax",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "next": "16.4.3",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/turbopack": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.3",
+    "tailwindcss": "^4"
+  },
+  "description": "PacMind AI (DAA Edition): Autonomous Pac-Man agent powered by Adversarial Minimax with Alpha-Beta Pruning.",
+  "author": "Ashank Gupta",
+  "keywords": [
+    "PacMind AI",
+    "Pac-Man",
+    "DAA",
+    "Minimax Algorithm",
+    "Alpha-Beta Pruning",
+    "Adversarial Search",
+    "Autonomous Agent",
+    "Ashank Gupta",
+    "Next.js",
+    "Tailwind CSS",
+    "Canvas Animation"
+  ]
+}
